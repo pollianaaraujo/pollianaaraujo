@@ -1,5 +1,5 @@
 - 👋🏻 Hi! My name is Polliana and I'm from 🇧🇷
 - ☕️ I love coffee a lot, but like some tea 🍵 once in a while
 - 🎮 My hobbies are playing games and 📺 watch animes or tv series
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: https://pollianaaraujo.com
